@@ -1,1 +1,1 @@
-alert("Exploiting...2");
+alert(document.cookie);
